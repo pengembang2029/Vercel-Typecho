@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/index.php": {
-      "runtime": "nodejs14.1"
+      "runtime": "nodejs8.10"
     }
   },
   "routes": [
